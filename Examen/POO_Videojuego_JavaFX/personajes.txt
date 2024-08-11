@@ -1,0 +1,2 @@
+Carlos,200,50,55,1000,Comerciante
+pp,100,90,60,null,Soldado
